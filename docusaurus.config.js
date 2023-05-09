@@ -7,20 +7,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Cat Yarn',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://linusabhyasaui.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '231saurus',
+  baseUrl: '/doc/',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'linusabhyasaui', // Usually your GitHub org/user name.
   projectName: '231saurus', // Usually your repo name.
-  GIT_PASS: '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'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
