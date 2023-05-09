@@ -1,0 +1,23 @@
+{
+  "name": "231saurus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linusabhyasaui/231saurus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linusabhyasaui/231saurus/issues"
+  },
+  "homepage": "https://github.com/linusabhyasaui/231saurus#readme",
+  "dependencies": {
+    "docusaurus": "^1.14.7"
+  }
+}
