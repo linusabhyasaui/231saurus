@@ -1,3 +1,0 @@
-# 231saurus
-
-Docusaurus
